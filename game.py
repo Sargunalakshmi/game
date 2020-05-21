@@ -1,5 +1,5 @@
 #!C:/Users/Ravi/AppData/Local/Programs/Python/Python37/python.exe
-from PIL import ImageGrab
+from PIL import     ImageGrab
 import pygame
 import cgi
 
